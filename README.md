@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align=left>
 <!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' /> -->
-<img algin='left' width='49.7%' src='https://camo.githubusercontent.com/ebc4a31bfa47c3136485d095d834a8d753d30b6633fdda9795e97a4cacf399d7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666' />
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' />
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=tynab&theme=dracula' />
 </p>
 
