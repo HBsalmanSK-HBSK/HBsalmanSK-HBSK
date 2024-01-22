@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!-- <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=10' /> -->
-<img align='center' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=20' />
+<!-- <img align='center' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=20' /> -->
 <!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
 
 
