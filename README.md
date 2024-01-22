@@ -30,4 +30,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <img align='center' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=20' /> -->
 <!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
 
-
+<p align='center'>
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
+<img src='https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif'>
+</p>
