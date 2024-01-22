@@ -25,7 +25,4 @@ You can click the Preview link to take a look at your changes.
 <img align='left' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=20' />
 <!-- <img align='left' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tynab&theme=dracula' /> -->
 
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=tynab&data=followers,repositories,stars,commits'>
-</p>
 
