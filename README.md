@@ -29,23 +29,3 @@ You can click the Preview link to take a look at your changes.
 <img src='https://github-widgetbox.vercel.app/api/profile?username=tynab&data=followers,repositories,stars,commits'>
 </p>
 
-<div>
-<a href='https://www.hackerrank.com/certificates/18b8b69e9e0f'>
-    <img src='certificate/Java1.png' width='279' title='Java (Basic)'>
-</a>
-<a href='https://www.hackerrank.com/certificates/923b39aff6b7'>
-    <img src='certificate/Python1.png' width='279' title='Python (Basic)'>
-</a>
-<a href='https://www.hackerrank.com/certificates/9136c4f105da'>
-    <img src='certificate/JavaScript2.png' width='279' title='JavaScript (Intermediate)'>
-</a>
-<a href='https://www.hackerrank.com/certificates/afa149d488a2'>
-    <img src='certificate/Problem2.png' width='279' title='Problem Solving (Intermediate)'>
-</a>
-<a href='https://www.hackerrank.com/certificates/51c373908367'>
-    <img src='certificate/Rest2.png' width='279' title='Rest API (Intermediate)'>
-</a>
-<a href='https://www.hackerrank.com/certificates/9c262c7c1e37'>
-    <img src='certificate/SQL3.png' width='279' title='SQL (Advanced)'>
-</a>
-</div>
